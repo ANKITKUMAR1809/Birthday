@@ -36,3 +36,14 @@ h2,h3{
 .item:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
+
+#by{
+    position: fixed;
+    padding: 2px 1px;
+    bottom: 0;
+    right: 0;
+    color: rgb(0, 0, 0);
+    text-shadow: 10px 3px 8px rgb(255, 255, 255);
+    font-size: 2rem;
+    
+}
